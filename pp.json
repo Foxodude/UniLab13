@@ -1,0 +1,311 @@
+{
+    "venues": [
+        {
+            "state": null,
+            "name_v2": "Italy",
+            "postal_code": "00135",
+            "name": "Italy",
+            "links": [],
+            "timezone": "Europe/Rome",
+            "url": "https://seatgeek.com/venues/italy-6/tickets",
+            "score": 0.52,
+            "location": {
+                "lat": 41.9341,
+                "lon": 12.4547
+            },
+            "address": "Piazzale del Foro Italico",
+            "country": "Italy",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "italy-6",
+            "extended_address": "Rome, Italy",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 7338,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 0,
+            "capacity": 0,
+            "display_location": "Rome, Italy"
+        },
+        {
+            "state": "GA",
+            "name_v2": "Kingston Downs",
+            "postal_code": "30161",
+            "name": "Kingston Downs",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/kingston-downs/tickets",
+            "score": 0.49,
+            "location": {
+                "lat": 34.2456,
+                "lon": -85.0194
+            },
+            "address": "1551 Georgia 293",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 1,
+            "city": "Rome",
+            "slug": "kingston-downs",
+            "extended_address": "Rome, GA 30161",
+            "stats": {
+                "event_count": 1
+            },
+            "id": 37482,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "AdventHealth Stadium",
+            "postal_code": "30161",
+            "name": "AdventHealth Stadium",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/adventhealth-stadium/tickets",
+            "score": 0.49,
+            "location": {
+                "lat": 34.28,
+                "lon": -85.17
+            },
+            "address": "755 Braves Boulevard",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 48,
+            "city": "Rome",
+            "slug": "adventhealth-stadium",
+            "extended_address": "Rome, GA 30161",
+            "stats": {
+                "event_count": 48
+            },
+            "id": 5571,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "Coosa Valley Fairgrounds",
+            "postal_code": "30161",
+            "name": "Coosa Valley Fairgrounds",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/coosa-valley-fairgrounds/tickets",
+            "score": 0.45,
+            "location": {
+                "lat": 34.259,
+                "lon": -85.1484
+            },
+            "address": "1400 Martin Luther King Junior Boulevard",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "coosa-valley-fairgrounds",
+            "extended_address": "Rome, GA 30161",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 155895,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "Forum River Center Arena",
+            "postal_code": "30161",
+            "name": "Forum River Center Arena",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/forum-river-center-arena/tickets",
+            "score": 0.29,
+            "location": {
+                "lat": 34.255,
+                "lon": -85.1729
+            },
+            "address": "301 Tribune St",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "forum-river-center-arena",
+            "extended_address": "Rome, GA 30161",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 429608,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "Ridge Ferry Park",
+            "postal_code": "30165",
+            "name": "Ridge Ferry Park",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/ridge-ferry-park/tickets",
+            "score": 0.29,
+            "location": {
+                "lat": 34.2566,
+                "lon": -85.1757
+            },
+            "address": "300 West 3rd Street",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "ridge-ferry-park",
+            "extended_address": "Rome, GA 30165",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 59476,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "Peaches",
+            "postal_code": "30161",
+            "name": "Peaches",
+            "links": [],
+            "timezone": "America/New_York",
+            "url": "https://seatgeek.com/venues/peaches-1/tickets",
+            "score": 0.23,
+            "location": {
+                "lat": 34.2543,
+                "lon": -85.1721
+            },
+            "address": "325 Broad St.",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "peaches-1",
+            "extended_address": "Rome, GA 30161",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 45601,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 600,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": "GA",
+            "name_v2": "The Warehouse @ West Rome Baptist Church",
+            "postal_code": "30165",
+            "name": "The Warehouse @ West Rome Baptist Church",
+            "links": [],
+            "timezone": null,
+            "url": "https://seatgeek.com/venues/the-warehouse-west-rome-baptist-church/tickets",
+            "score": 0,
+            "location": {
+                "lat": 34.2674,
+                "lon": -85.2038
+            },
+            "address": "8 Sheridan Dr NW",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "the-warehouse-west-rome-baptist-church",
+            "extended_address": "Rome, GA 30165",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 494164,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 524,
+            "capacity": 0,
+            "display_location": "Rome, GA"
+        },
+        {
+            "state": null,
+            "name_v2": "Hulala",
+            "postal_code": "00100",
+            "name": "Hulala",
+            "links": [],
+            "timezone": "Europe/Rome",
+            "url": "https://seatgeek.com/venues/hulala/tickets",
+            "score": 0,
+            "location": {
+                "lat": 41.8744,
+                "lon": 12.4791
+            },
+            "address": "Via dei Conciatori 7/c",
+            "country": "Italy",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "hulala",
+            "extended_address": "Rome, Italy",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 430116,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 0,
+            "capacity": 0,
+            "display_location": "Rome, Italy"
+        },
+        {
+            "state": null,
+            "name_v2": "Stadio",
+            "postal_code": "",
+            "name": "Stadio",
+            "links": [],
+            "timezone": null,
+            "url": "https://seatgeek.com/venues/stadio-4/tickets",
+            "score": 0,
+            "location": {
+                "lat": 41.9028,
+                "lon": 12.4964
+            },
+            "address": null,
+            "country": "Italy",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rome",
+            "slug": "stadio-4",
+            "extended_address": "Rome, Italy",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 406651,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 0,
+            "capacity": 0,
+            "display_location": "Rome, Italy"
+        }
+    ],
+    "meta": {
+        "total": 511,
+        "took": 47,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}
